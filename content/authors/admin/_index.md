@@ -1,6 +1,7 @@
 ---
 title: Bradley Max Segal
-role: Medical Doctor | Data Scientist 
+role: Medical Doctor | Health Data Scientist
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Clinical Medicine
@@ -53,4 +54,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I’m a medical doctor with a passion for digital technology and its applications for healthcare. This passion led me to simultaneously complete an MSc in Engineering alongside my medical degree. My research focus has largely been on the applications of deep learning for medical imaging, however, I have also worked on infectious disease modelling, HIV transmission risk prediction, as well as more conventional medical research. I am thoroughly fascinated with AI & Precision Medicine in all its forms and am working to bring these concepts to reality.
+A practicing medical doctor with a passion for technology and innovation. Simultaneously pursued medicine along with a master's degree in biomedical engineering focusing on the applications of machine learning for health. He has worked extensively at the intersection of healthcare and data science to develop solutions to the challenges found in low-resource health systems, often serving as a bridge between technical and clinical teams. He is fascinated by the future of medical practice and how artificial intelligence will shape and enhance it.
