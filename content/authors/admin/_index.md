@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/bradmaxsegal
   - display:
       header: false
-    link: CV/Brad Segal - CV.pdf
+    link: CV/Bradley Segal CV.pdf
     icon_pack: ai
     icon: cv
 organizations:
